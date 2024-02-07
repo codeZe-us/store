@@ -10,7 +10,7 @@ class Home extends StatefulWidget {
 }
 
 class _HomeState extends State<Home> {
-  final List<Widget> _screensList = const [Products(), ProfileView()];
+  final List<Widget> _screensList = const [Products(), Profile()];
   int _currerntIndex = 0;
 
   @override
