@@ -38,6 +38,7 @@ flutter pub get.
 
 # Note
 Login Screen code written but the navigation wasn't passed to link with the application due to time.
+FakStore API does not provide endpoint/API for registration of users.
 
 
 # Command for running the app
