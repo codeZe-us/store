@@ -36,6 +36,9 @@ Download Flutter SDK.
 # Command for installing dependencies
 flutter pub get.
 
+# Note
+Login Screen code written but the navigation wasn't passed to link with the application due to time.
+
 
 # Command for running the app
 flutter run
